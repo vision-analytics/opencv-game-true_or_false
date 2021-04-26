@@ -1,0 +1,26 @@
+{ 
+    "items":[
+        {
+            "question": "36x2 = 72",
+            "correct_answer": "True",
+            "point": 1
+        },
+        {
+            "question": "0.75 is same as 75%",
+            "correct_answer": "True",
+            "point": 1
+        },
+        {
+            "question": "The Next Primer number after 7 is 9",
+            "correct_answer": "False",
+            "point": 1
+        },
+        {
+            "question": "63-45 = 28",
+            "correct_answer": "False",
+            "point": 1
+        }
+    ],
+    "question_timeout": 10,
+    "game_timeout": 30
+}
